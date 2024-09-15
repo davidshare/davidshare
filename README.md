@@ -19,7 +19,7 @@ Here are some ideas to get you started :
 
 ##### General Statistics
 
-[![David Essien's Github Stats](https://github-readme-stats.vercel.app/api?username=davidshare&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true)](https://github.com/davidshare)
+[![David Essien's Github Stats](https://github-readme-stats.vercel.app/api?username=davidshare&count_private=true&show_icons=true&theme=default&include_all_commits=true)](https://github.com/davidshare)
 
 
 ##### Languages/Tools/Stack
