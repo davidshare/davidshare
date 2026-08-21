@@ -1,230 +1,215 @@
-
-# Hi, I'm David Essien
+<h1 align="center">Hi, I'm David Essien 👋</h1>
 
 <p align="center">
-  <img src="./assets/david-essien.jpg" width="180" alt="David Essien" />
+  <img src="./assets/david-essien.jpg" width="150" alt="David Essien" style="border-radius: 50%;" />
 </p>
 
-<h2 align="center">DevOps Engineer | Software Engineer</h2>
+<h3 align="center">DevOps Engineer | Software Engineer</h3>
 
 <p align="center">
-  I help organisations automate application delivery and build cloud environments that are reliable, secure, observable, and resilient.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=I+help+teams+ship+software+reliably;I+build+cloud+infrastructure+that+stays+up;Automation+plus+Observability+plus+Security" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/davidshare">
-    <img src="https://img.shields.io/badge/GitHub-davidshare-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/iamdavidshare/">
-    <img src="https://img.shields.io/badge/LinkedIn-David%20Essien-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://davidessien.com">
-    <img src="https://img.shields.io/badge/Website-davidessien.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://devopsforger.com">
-    <img src="https://img.shields.io/badge/DevOps%20Forger-devopsforger.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <a href="https://github.com/davidshare"><img src="https://img.shields.io/badge/GitHub-davidshare-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iamdavidshare/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://davidessien.com"><img src="https://img.shields.io/badge/Website-davidessien.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://devopsforger.com"><img src="https://img.shields.io/badge/DevOps%20Forger-Course%20Platform-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="mailto:davidessienshare@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## What I Do
 
-I work at the intersection of software development, cloud infrastructure, and operations.
+I work at the intersection of software development, cloud infrastructure, and operations, helping teams move from manually managed infrastructure and fragile deployments to automated, observable, secure, and resilient systems.
 
-I help teams move from manually managed infrastructure and fragile deployment processes to automated, observable, secure, and resilient environments.
-
-The outcome of my work is to:
-
-* Automate the path from code to production
-* Reduce deployment complexity and operational overhead
-* Improve application reliability and availability
-* Give engineering teams better visibility into their systems
-* Build infrastructure that can scale with demand
-* Strengthen security across infrastructure and delivery pipelines
-* Improve incident response and recovery
-* Enable teams to ship software more consistently
+```
+Automate the path from code to production
+Reduce deployment complexity and operational overhead
+Improve reliability, availability, and incident response
+Give engineering teams visibility into the systems they operate
+Build infrastructure that scales with demand
+```
 
 ---
 
-## DevOps Toolkit
+## Tech Stack
 
-### Cloud Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,docker,ansible,jenkins,githubactions,gitlab,nginx,prometheus,grafana,python,bash,ts,js,nodejs,nestjs,react,nextjs,postgres,mysql,mongodb,linux,git,github&perline=9" />
 </p>
 
-### Infrastructure as Code
+<p align="center"><i>Click a category below to expand the full tool list.</i></p>
 
-<p>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+<details>
+<summary><b>Cloud & Infrastructure (click to expand)</b></summary>
+<br>
 
-### Containers & Orchestration
+| Area | Tools |
+|---|---|
+| Cloud Platforms | AWS, GCP, DigitalOcean |
+| Infrastructure as Code | Terraform, Ansible, AWS CloudFormation |
+| Compute | Amazon EC2, AWS Lambda |
+| Networking | AWS VPC, Public/Private Subnets, NAT Gateways, Security Groups |
+| Traffic & Edge | Load Balancing, DNS, Cloudflare |
+| Reverse Proxy | Nginx, Traefik |
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-</p>
+</details>
 
-### CI/CD & GitOps
+<details>
+<summary><b>Containers, Kubernetes & GitOps (click to expand)</b></summary>
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-</p>
+| Area | Tools |
+|---|---|
+| Containers | Docker |
+| Orchestration | Kubernetes, Amazon EKS, Google GKE, OpenShift |
+| Packaging | Helm |
+| GitOps | Argo CD |
+| Networking | Ingress, Service Discovery |
+| Scaling | Kubernetes Autoscaling, AWS Auto Scaling |
+| Configuration | ConfigMaps, Secrets |
 
-### Observability & SRE
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+<details>
+<summary><b>CI/CD & Software Delivery (click to expand)</b></summary>
+<br>
 
-`Monitoring` `Alerting` `Incident Response` `High Availability` `Failover` `Autoscaling` `Reliability Engineering`
+| Area | Tools |
+|---|---|
+| CI/CD | Jenkins, GitHub Actions, GitLab CI/CD, Bitbucket Pipelines |
+| GitOps Delivery | Argo CD |
+| Build & Release | Cloud Build, Docker |
+| Version Control | Git, GitHub, GitLab, Bitbucket |
+| Automation | Bash, Python |
 
-### DevSecOps
+</details>
 
-`Secure CI/CD` `Infrastructure Security` `Cloud Security` `Kubernetes Security` `Secrets Management` `Security Automation`
+<details>
+<summary><b>Observability & SRE (click to expand)</b></summary>
+<br>
 
-### Networking & Infrastructure
+| Area | Tools |
+|---|---|
+| Metrics | Prometheus |
+| Dashboards | Grafana |
+| Logging | Loki, Promtail |
+| Cloud Monitoring | Google Cloud Monitoring / Stackdriver |
+| Reliability | High Availability, Failover, Autoscaling |
+| Recovery | Backup & Restore, Disaster Recovery |
 
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
+**Focus areas:** Monitoring and alerting, incident response, capacity planning, failure detection, backup and restore testing, reducing operational toil
 
-`VPC` `Public/Private Subnets` `NAT Gateways` `Security Groups` `Load Balancing` `DNS` `Reverse Proxy`
+</details>
 
-### Programming & Software Development
+<details>
+<summary><b>DevSecOps (click to expand)</b></summary>
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
+| Area | Tools |
+|---|---|
+| Secret Detection | Gitleaks |
+| Infrastructure Security | Checkov, tfsec |
+| Container Security | Trivy |
+| Code Security | SonarQube |
+| Dependency Security | Snyk |
+| Policy Enforcement | Open Policy Agent, Kyverno |
+| Kubernetes Security | Trivy, Falco, Kyverno |
+| Cloud Security | AWS IAM, Security Groups, VPC Controls |
 
-### Databases & Data
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
-</p>
+<details>
+<summary><b>Software Development (click to expand)</b></summary>
+<br>
 
-### Version Control
+| Area | Technologies |
+|---|---|
+| Languages | Python, Bash, TypeScript, JavaScript |
+| Backend | Node.js, NestJS, Express |
+| Frontend | React, Next.js |
+| Databases | PostgreSQL, MySQL, MongoDB |
+| Performance | Caching, Query Optimisation, Connection Pooling |
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-</p>
+</details>
 
-### Backup & Recovery
+---
 
-`Veeam` `Backup Automation` `Disaster Recovery` `Failover` `Recovery Planning`
+## Personal Philosophy: Build for Failure
+
+I assume **everything has the capacity to fail**: an oversight, a config error, hardware failure, a software defect, wear and tear, human error, a dependency going down, or malicious intent.
+
+> The goal isn't to build systems that never fail. The goal is to build systems that are **prepared for failure**, able to **detect it**, **recover from it**, and **minimise its impact**.
+
+This shapes how I approach infrastructure and delivery:
+
+- **Security by design:** assume systems will be targeted, and protect them accordingly
+- **Defence in depth:** never depend on a single security or reliability mechanism
+- **Failure planning:** identify known failure modes and design around them
+- **High availability:** remove unnecessary single points of failure
+- **Multiple recovery strategies:** redundancy, failover, backups, recovery procedures
+- **Backup validation:** a backup that's never been restored is an assumption, not a strategy
+- **Observability:** logs, metrics, traces, dashboards, alerts
+- **Automation:** reduce failure-prone manual operations
+- **Infrastructure as Code:** reproducible, reviewable, recoverable
+- **Continuous testing:** of deployments, failure scenarios, recovery procedures, and backups
+- **Least privilege:** limit what systems, services, and people can do
+- **Graceful degradation:** fail safely, preserve critical functionality
+- **Continuous improvement:** use incidents as evidence for improving the system
+
+*This is where DevOps, SRE, and DevSecOps intersect for me: systems delivered safely, operated reliably, observed clearly, secured continuously, and recovered when things inevitably go wrong.*
 
 ---
 
 ## Featured Projects
 
 ### AWS VPC & Autoscaling
+A secure three-tier AWS architecture supporting applications across public and private network tiers.
 
-A secure three-tier AWS architecture designed to support applications across public and private network tiers.
+**Built with:** AWS, VPC, Terraform, NAT Gateway, Security Groups, CloudWatch, Auto Scaling
 
-**Built with:** `AWS` `VPC` `Terraform` `NAT Gateway` `Security Groups` `CloudWatch` `Auto Scaling`
+### Full-Stack Monitoring Setup
+A complete monitoring and logging environment for a containerised application.
 
-**Focus:** Secure infrastructure, automated provisioning, high availability, and dynamic resource scaling.
+**Built with:** FastAPI, Next.js, Docker Compose, Terraform, Prometheus, Grafana, Loki, Promtail, Traefik
 
----
-
-### Full-Stack Monitoring with Docker Compose
-
-A complete monitoring environment built around a containerised application, providing metrics, logs, dashboards, and alerting.
-
-**Built with:** `FastAPI` `Next.js` `Docker Compose` `Terraform` `Prometheus` `Grafana` `Loki` `Promtail` `Traefik`
-
-**Focus:** Application visibility, infrastructure monitoring, centralised logging, and operational troubleshooting.
+> *Add a screenshot or architecture diagram here. A Grafana dashboard or a system diagram will make this section far more compelling than text alone.*
 
 ---
 
 ## What I'm Building
 
-### DevOps Forger
-
-[**DevOps Forger**](https://devopsforger.com) is my course platform for practical DevOps and cloud engineering education.
-
-I'm building it to make complex infrastructure and DevOps concepts easier to understand and apply through practical, hands-on learning.
-
-**Explore:** [devopsforger.com](https://devopsforger.com)
+### [DevOps Forger](https://devopsforger.com)
+My course platform for practical DevOps and cloud engineering education, built to make complex infrastructure concepts easier to understand through hands-on learning.
 
 ---
 
 ## Writing & Knowledge
 
-I write about DevOps, cloud engineering, software development, and ideas I've found useful in my professional and personal development.
+I write about DevOps, cloud engineering, software development, and personal growth.
 
-* **Blog:** [davidessien.com/blog](https://davidessien.com/blog)
-* **DevOps Forger:** [devopsforger.com/blog](https://devopsforger.com/blog)
+- [davidessien.com/blog](https://davidessien.com/blog): technical and personal writing
+- [devopsforger.com/blog](https://devopsforger.com/blog): practical DevOps and cloud engineering content
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidshare&show_icons=true&hide_border=true&rank_icon=github" alt="David Essien GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidshare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidshare&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidshare&layout=compact&hide_border=true" alt="David Essien Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidshare&hide_border=true" alt="David Essien GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidshare&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/iamdavidshare/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://davidessien.com">
-    <img src="https://img.shields.io/badge/Website-davidessien.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/davidshare">
-    <img src="https://img.shields.io/badge/GitHub-davidshare-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:davidessienshare@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
-  <i>Building reliable systems and making software delivery more predictable.</i>
+  <i>Build for failure. Automate what can be automated. Make systems observable, secure, and recoverable.</i>
 </p>
