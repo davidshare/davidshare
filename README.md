@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm David Essien 👋</h1>
 
-<p align="center">
-  <img src="./assets/david-essien.jpg" width="150" alt="David Essien" style="border-radius: 50%;" />
-</p>
-
+![Github banner](github-banner.png)
 <h3 align="center">DevOps Engineer | Software Engineer</h3>
 
 <p align="center">
@@ -168,12 +165,13 @@ This shapes how I approach infrastructure and delivery:
 ## Featured Projects
 
 ### AWS VPC & Autoscaling
+![AWS architectural diagram](aws%20architectural%20diagram.png)
 A secure three-tier AWS architecture supporting applications across public and private network tiers.
 
 **Built with:** AWS, VPC, Terraform, NAT Gateway, Security Groups, CloudWatch, Auto Scaling
-![AWS architectural diagram](aws%20architectural%20diagram.png)
 
 ### Full-Stack Monitoring Setup
+![Fullstack monitoring diagram](fullstack-monitoring.png)
 A complete monitoring and logging environment for a containerised application.
 
 **Built with:** FastAPI, Next.js, Docker Compose, Terraform, Prometheus, Grafana, Loki, Promtail, Traefik
