@@ -171,14 +171,12 @@ This shapes how I approach infrastructure and delivery:
 A secure three-tier AWS architecture supporting applications across public and private network tiers.
 
 **Built with:** AWS, VPC, Terraform, NAT Gateway, Security Groups, CloudWatch, Auto Scaling
+![AWS architectural diagram](aws%20architectural%20diagram.png)
 
 ### Full-Stack Monitoring Setup
 A complete monitoring and logging environment for a containerised application.
 
 **Built with:** FastAPI, Next.js, Docker Compose, Terraform, Prometheus, Grafana, Loki, Promtail, Traefik
-
-> *Add a screenshot or architecture diagram here. A Grafana dashboard or a system diagram will make this section far more compelling than text alone.*
-
 ---
 
 ## What I'm Building
